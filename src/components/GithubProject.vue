@@ -44,9 +44,9 @@ import { Pagination, Mousewheel } from "swiper";
 // 仓库数据
 const projectData = [
   {
-    name: "home",
-    author: "imsyy",
-    desc: "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+    name: "BlogRoll-Worker",
+    author: "Overbye",
+    desc: "Another RSS Reader on Worker",
   },
   {
     name: "SPlayer",
