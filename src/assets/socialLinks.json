@@ -12,30 +12,27 @@
     "url": "https://t.me/Overbye"
   },
   {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com"
+  },
+  {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "你懂的 ~",
+    "url": "https://twitter.com"
+  },
+  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
     "url": "mailto:overbye@vip.163.com"
   }
 ]
-
-  /*
-  {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/Overbye"
-  },
-  {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/"
-  },
-  */
