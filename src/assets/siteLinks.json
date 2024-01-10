@@ -15,19 +15,34 @@
     "link": "https://chat.axz.me/"
   },
   {
-    "icon": "ClipboardList",
-    "name": "网络传输",
-    "link": "https://share.axz.me/"
-  },
-  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.axz.me/"
   },
   {
+    "icon": "ClipboardList",
+    "name": "网络传输",
+    "link": "https://fx.axz.me/"
+  },
+  {
+    "icon": "Alipay",
+    "name": "领取红包",
+    "link": "https://hb.axz.me/"
+  },
+  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.axz.me/"
+  },
+  {
+    "icon": "BookReader",
+    "name": "阅读",
+    "link": "https://read.axz.me/"
+  },
+  {
+    "icon": "Location",
+    "name": "My IP",
+    "link": "https://myip.axz.me/"
   },
   {
     "icon": "Compass",
