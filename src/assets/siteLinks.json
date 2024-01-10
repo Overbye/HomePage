@@ -30,6 +30,11 @@
     "link": "https://hb.axz.me/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://nz.axz.me/"
+  },
+  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.axz.me/"
@@ -38,6 +43,11 @@
     "icon": "BookReader",
     "name": "阅读",
     "link": "https://read.axz.me/"
+  },
+  {
+    "icon": "PaperPlane",
+    "name": "订阅转换",
+    "link": "https://sub.axz.me/"
   },
   {
     "icon": "Location",
@@ -53,10 +63,5 @@
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://alist.axz.me/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://nz.axz.me/"
   }
 ]
