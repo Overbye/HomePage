@@ -5,6 +5,20 @@
     "tip": "有什么事吗",
     "url": "https://res.abeim.cn/api/qq/?qq=16700231"
   },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/Overbye"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:overbye@vip.163.com"
+  }
+]
+
   /*
   {
     "name": "Github",
@@ -25,16 +39,3 @@
     "url": "https://twitter.com/"
   },
   */
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/Overbye"
-  },
-  {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:overbye@vip.163.com"
-  }
-]
